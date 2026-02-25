@@ -33,4 +33,4 @@ The LSTM model outperformed the baseline models by effectively learning long-ran
 
 
 ## Author
-**Andrew Chen** University of California, Davis | Statistics & Economics
+**Andrew Chen:** University of California, Davis | Statistics & Economics
